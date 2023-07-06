@@ -3,7 +3,7 @@ An assignment to improve website accessibility.
 
 Assignment consisted of refactoring code to make it more accessible. Changes mostly included aadding alt to all images and icons as well as changing tags to create a more scemantic layout.
 
-Completed by Al
+Completed by Alejandra Bernabel.
 
 # Acceptance Criteria
 GIVEN a webpage meets accessibility standards
