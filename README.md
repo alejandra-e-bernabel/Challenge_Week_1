@@ -5,7 +5,7 @@ Assignment consisted of refactoring code to make it more accessible. Changes mos
 
 Completed by Alejandra Bernabel.
 
-# Acceptance Criteria
+## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -17,3 +17,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Link to deployed cite
+https://alejandra-e-bernabel.github.io/Challenge_Week_1/Develop/
+
+## Screenshot of deployed cite
+![Deployed cite screenshot](<Screenshot (154).png>)
